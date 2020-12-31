@@ -1,0 +1,1 @@
+linx系统: /usr/lib/
